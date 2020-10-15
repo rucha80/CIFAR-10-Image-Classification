@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 23 11:34:52 2020
 
-@author: 3kt
-"""
 
 # evaluate the deep model on the test dataset
 from keras.datasets import cifar10

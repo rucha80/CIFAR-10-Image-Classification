@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 14 11:25:37 2020
 
-@author: Rucha
-"""
 
 #This code tells you how to implement CNN model without using inbuilt model keras
 #This will give you basic idea of tensorflow layers mplementation

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep  8 11:16:21 2020
-
-@author: Rucha
-"""
 
 #This code is basic Implementation of CNN model with 3 Convolution and Max-pooling Layers
 #To read the code with description go the link https://www.tensorflow.org/tutorials/images/cnn

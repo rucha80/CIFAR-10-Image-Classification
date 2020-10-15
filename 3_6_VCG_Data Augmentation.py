@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 23 11:15:37 2020
 
-@author: 3kt
-"""
 
 # baseline model with data augmentation on the cifar10 dataset
 import sys

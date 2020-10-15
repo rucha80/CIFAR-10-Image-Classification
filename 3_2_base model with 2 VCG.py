@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 23 10:59:37 2020
-
-@author: 3kt
-"""
-
 
 # test harness for evaluating models on the cifar10 dataset
 import sys

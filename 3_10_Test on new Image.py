@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 23 11:36:22 2020
-
-@author: 3kt
-"""
 
 # make a prediction for a new image.
 from keras.preprocessing.image import load_img

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 23 11:12:33 2020
-
-@author: 3kt
-"""
 
 # baseline model with dropout on the cifar10 dataset
 import sys
